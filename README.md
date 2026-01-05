@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tfxpanda0p
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
 
 
