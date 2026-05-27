@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Subham Banerjee</h1>
-<h3 align="center">MERN Stack Developer | Backend-Focused | Open to Opportunities</h3>
+<h3 align="center">Backend Developer | MERN/PERN Stack | Open to Opportunities</h3>
 
 <p align="center">
-Backend-focused MERN Stack developer with hands-on experience building real-world applications using 
-Node.js, Express.js, MongoDB, MySQL, and REST APIs. I enjoy designing clean backend architectures, 
-working with authentication systems, and building scalable APIs. Currently expanding my frontend 
-skills with React while continuously improving my problem-solving and system design skills.
+Backend-focused developer with hands-on experience building scalable and production-ready applications using 
+Node.js, Express.js, TypeScript, MongoDB, PostgreSQL, Redis, and Docker. Passionate about backend engineering, 
+microservices, REST APIs, authentication systems, caching, and system design. Currently exploring CI/CD workflows, 
+Kubernetes, and modern cloud-native technologies while strengthening frontend development with React.
 </p>
 
-- 🌱 I’m currently learning **React & modern frontend development**
-- 💼 Looking for **entry-level / fresher backend or MERN stack roles**
-- 🛠️ Experienced in **Auth systems, REST APIs, real-time apps & database design**
-- 📫 How to reach me: **subham12work@gmail.com**
+- 🚀 Building scalable backend systems with **Node.js, Express.js, MongoDB & PostgreSQL**
+- 🧩 Interested in **Microservices, Redis caching, Docker, API Gateway & system design**
+- 🌱 Currently learning **CI/CD pipelines, Kubernetes & advanced DevOps workflows**
+- 💼 Open to **Backend Developer / MERN Stack Developer opportunities**
+- 🌐 Portfolio: **https://portfolio-subham-delta.vercel.app/**
+- 📫 Reach me at: **subham12work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-banerjee0p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-banerjee0p/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/huPzVWhV6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/huPzVWhV6a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subham-banerjee0p/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://discord.gg/huPzVWhV6a" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
