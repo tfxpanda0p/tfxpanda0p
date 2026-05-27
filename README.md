@@ -11,7 +11,7 @@ skills with React while continuously improving my problem-solving and system des
 - 🌱 I’m currently learning **React & modern frontend development**
 - 💼 Looking for **entry-level / fresher backend or MERN stack roles**
 - 🛠️ Experienced in **Auth systems, REST APIs, real-time apps & database design**
-- 📫 How to reach me: **subhambanerjee0p@gmail.com**
+- 📫 How to reach me: **subham12work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
